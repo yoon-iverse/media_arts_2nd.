@@ -14,7 +14,7 @@ let score = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   resetGame();
-}
+} 
 
 function resetGame() {
   // 패들
